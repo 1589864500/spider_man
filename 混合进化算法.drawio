@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T09:35:03.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" version="13.8.8" etag="zRfHFuItiLQ2s6pPFFVy" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VpNc5swEP01PnYGEHbcY+PmY6ZOJjM+9KwgBdQK5BHCmPz6SkYyn8EkxglOmkvQYxHSe6vdlfAELMLtDYfr4I4hTCeOhbYT8HPiOLbjAPlPIVmOzNxpDvicIG1UACvyjDVoaTQhCMcVQ8EYFWRdBT0WRdgTFQxyztKq2ROj1beuoY8bwMqDtIn+JkgEOTp3Lgr8FhM/MG+2Z9/zOyE0xnomcQARS0sQuJqABWdM5FfhdoGpIs/wkj93/cLd/cA4jkSfB9D9Nrv/deFdzB+X6SZG+O52+s3Wo91AmugZP0h69YhFZmiIUxJSGMnWZSBCKkFbXnoBoWgJM5aoEcQCen9N65LjWIr5YIZn16A7qFzEUv0xTp5ZJCDVgOyHC+0JTtVipV6hzZrz15RsMBd4W4I0HzeYhVjwTJrs3VNrk9XaaSG1O9VYUJIZzDQItXv5+74LBeSFFuEVghjHKgnSEAMj6aK6ybgImM8iSK8K9JKzJEIYaaYKmyVjay3GHyxEplmGiWBVZRGMg93zqoEj9EMtJdmM2M4HJHJNKH1RiU5fi1nCPdzFgasXOuQ+7urRmeWGipBOvTmmUJBNdU0Prh2wP0KqkjoehXFMvIpA9ikEmvcUCFjjEmj6X6AaI+64BJp/FYFmfQUaPMTtHpXzhVnJYM1IJOJSzw8KKGXKeTVTArdWbNTsXavTXl7kIyhcZT+VI3Kn1cidS1WzOFYzMLcXNB2lx9tyXf9apK30AC2lx75GGb70mI6i9OjJ8L6sPrjUQN9qYlyx0Iy7Uw5K5UZI0Z4GRODVGu6oSOVe7ChS+7utW13nbosXtzixezIfdg+TVvXQA8Q9ycV/DUNC1QRvMd1gQTyob2gfth3dXjDK+O4lwNr9SRxS4kcqs0jmMT+lFPXdDGhqMW/R4mRbGdDHgc8pu/cOOYb5w9ndGVXIAc0E+mVWTz2Sffjqcc4h/O8PQsYS/+0Ga7oEbLI32hKw6zTqnUvC5vHgmYdwsxMYbINmttojCeFm3J8ghB99nPvRIdy4RqcWAQsfk/hT6eCMLSk0U6lOCuDskkIrme+bFMA4PlEMmBTM+A/W9X0/TAx/anecYp9nV2yW8pvr+pai6n3r+j4JevxJ4dU61HcKLcl5oKQgm8VX9fxsufhtArj6Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-24T05:50:15.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="iOJABKh9d6Pb7AL_b7by" version="14.2.7" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="953" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VS-NgZsIthac1rjIjQk5-28" value="A：历代最优个体组成的种群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-29" value="B：全局极值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-30" value="C：当代种群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VS-NgZsIthac1rjIjQk5-32" target="VS-NgZsIthac1rjIjQk5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-32" value="C1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VS-NgZsIthac1rjIjQk5-34" target="VS-NgZsIthac1rjIjQk5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-34" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VS-NgZsIthac1rjIjQk5-37" target="VS-NgZsIthac1rjIjQk5-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VS-NgZsIthac1rjIjQk5-37" target="VS-NgZsIthac1rjIjQk5-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-37" value="C2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VS-NgZsIthac1rjIjQk5-39" target="VS-NgZsIthac1rjIjQk5-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="690" />
+              <mxPoint x="680" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-39" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VS-NgZsIthac1rjIjQk5-41" target="VS-NgZsIthac1rjIjQk5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-41" value="C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VS-NgZsIthac1rjIjQk5-43" target="VS-NgZsIthac1rjIjQk5-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-43" value="C3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-44" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-45" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-46" value="局部搜索：跳出局部最优" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-47" value="基于自适应权重的变异" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="470" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-48" value="两点交叉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="570" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-49" value="两点交叉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="670" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-50" value="更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VS-NgZsIthac1rjIjQk5-37" target="VS-NgZsIthac1rjIjQk5-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-52" value="更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="440" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-54" value="全局搜索：进化算法标准步骤" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="530" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-NgZsIthac1rjIjQk5-55" value="编码合法化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="747" y="620" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
